@@ -1,0 +1,3185 @@
+[{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5b6"
+  },
+  "Title": "The Shawshank Redemption",
+  "Release Year": 1994,
+  "Director": "Frank Darabont",
+  "Main Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",
+  "Genre": "Drama",
+  "Rating": "9.3/10",
+  "Duration": "142 min",
+  "Votes": 3038093
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5b7"
+  },
+  "Title": "The Godfather",
+  "Release Year": 1972,
+  "Director": "Francis Ford Coppola",
+  "Main Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano, Robert Duvall",
+  "Genre": "Crime, Drama",
+  "Rating": "9.2/10",
+  "Duration": "175 min",
+  "Votes": 2120763
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5b8"
+  },
+  "Title": "The Dark Knight",
+  "Release Year": 2008,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal",
+  "Genre": "Action, Crime, Drama, Thriller",
+  "Rating": "9.0/10",
+  "Duration": "152 min",
+  "Votes": 3014897
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5b9"
+  },
+  "Title": "The Godfather Part II",
+  "Release Year": 1974,
+  "Director": "Francis Ford Coppola",
+  "Main Actors": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro, John Cazale",
+  "Genre": "Crime, Drama",
+  "Rating": "9.0/10",
+  "Duration": "202 min",
+  "Votes": 1426796
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ba"
+  },
+  "Title": "12 Angry Men",
+  "Release Year": 1957,
+  "Director": "Sidney Lumet",
+  "Main Actors": "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall, Jack Klugman",
+  "Genre": "Crime, Drama",
+  "Rating": "9.0/10",
+  "Duration": "96 min",
+  "Votes": 923042
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5bb"
+  },
+  "Title": "The Lord of the Rings: The Return of the King",
+  "Release Year": 2003,
+  "Director": "Peter Jackson",
+  "Main Actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston, John Bach",
+  "Genre": "Adventure, Drama, Fantasy",
+  "Rating": "9.0/10",
+  "Duration": "201 min",
+  "Votes": 2074343
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5bc"
+  },
+  "Title": "Schindler's List",
+  "Release Year": 1993,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall",
+  "Genre": "Biography, Drama, History",
+  "Rating": "9.0/10",
+  "Duration": "195 min",
+  "Votes": 1519751
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5bd"
+  },
+  "Title": "Pulp Fiction",
+  "Release Year": 1994,
+  "Director": "Quentin Tarantino",
+  "Main Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta, Samuel L. Jackson",
+  "Genre": "Crime, Drama",
+  "Rating": "8.9/10",
+  "Duration": "154 min",
+  "Votes": 2330768
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5be"
+  },
+  "Title": "The Lord of the Rings: The Fellowship of the Ring",
+  "Release Year": 2001,
+  "Director": "Peter Jackson",
+  "Main Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker, Sean Bean",
+  "Genre": "Adventure, Drama, Fantasy",
+  "Rating": "8.9/10",
+  "Duration": "178 min",
+  "Votes": 2104195
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5bf"
+  },
+  "Title": "Forrest Gump",
+  "Release Year": 1994,
+  "Director": "Robert Zemeckis",
+  "Main Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys, Harold G. Herthum",
+  "Genre": "Drama, Romance",
+  "Rating": "8.8/10",
+  "Duration": "142 min",
+  "Votes": 2374665
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c0"
+  },
+  "Title": "The Lord of the Rings: The Two Towers",
+  "Release Year": 2002,
+  "Director": "Peter Jackson",
+  "Main Actors": "Bruce Allpress, Sean Astin, John Bach, Sala Baker, Cate Blanchett",
+  "Genre": "Adventure, Drama, Fantasy",
+  "Rating": "8.8/10",
+  "Duration": "179 min",
+  "Votes": 1870209
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c1"
+  },
+  "Title": "Fight Club",
+  "Release Year": 1999,
+  "Director": "David Fincher",
+  "Main Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier, Richmond Arquette",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.8/10",
+  "Duration": "139 min",
+  "Votes": 2459410
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c2"
+  },
+  "Title": "Inception",
+  "Release Year": 2010,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy, Ken Watanabe",
+  "Genre": "Action, Adventure, Sci-Fi, Thriller",
+  "Rating": "8.8/10",
+  "Duration": "148 min",
+  "Votes": 2677959
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c3"
+  },
+  "Title": "Star Wars: Episode V - The Empire Strikes Back",
+  "Release Year": 1980,
+  "Director": "Irvin Kershner",
+  "Main Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels",
+  "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+  "Rating": "8.7/10",
+  "Duration": "124 min",
+  "Votes": 1438406
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c4"
+  },
+  "Title": "The Matrix",
+  "Release Year": 1999,
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Main Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster",
+  "Genre": "Action, Sci-Fi",
+  "Rating": "8.7/10",
+  "Duration": "136 min",
+  "Votes": 2151785
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c5"
+  },
+  "Title": "Goodfellas",
+  "Release Year": 1990,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino",
+  "Genre": "Biography, Crime, Drama",
+  "Rating": "8.7/10",
+  "Duration": "145 min",
+  "Votes": 1322923
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c6"
+  },
+  "Title": "Interstellar",
+  "Release Year": 2014,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow, Timothée Chalamet",
+  "Genre": "Adventure, Drama, Sci-Fi",
+  "Rating": "8.7/10",
+  "Duration": "169 min",
+  "Votes": 2338109
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c7"
+  },
+  "Title": "One Flew Over the Cuckoo's Nest",
+  "Release Year": 1975,
+  "Director": "Milos Forman",
+  "Main Actors": "Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown, Scatman Crothers",
+  "Genre": "Drama",
+  "Rating": "8.7/10",
+  "Duration": "133 min",
+  "Votes": 1114865
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c8"
+  },
+  "Title": "Seven",
+  "Release Year": 1995,
+  "Director": "David Fincher",
+  "Main Actors": "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt, Gwyneth Paltrow",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.6/10",
+  "Duration": "127 min",
+  "Votes": 1907023
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5c9"
+  },
+  "Title": "It's a Wonderful Life",
+  "Release Year": 1946,
+  "Director": "Frank Capra",
+  "Main Actors": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers",
+  "Genre": "Drama, Family, Fantasy, Romance",
+  "Rating": "8.6/10",
+  "Duration": "130 min",
+  "Votes": 526945
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ca"
+  },
+  "Title": "The Silence of the Lambs",
+  "Release Year": 1991,
+  "Director": "Jonathan Demme",
+  "Main Actors": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald",
+  "Genre": "Crime, Drama, Horror, Thriller",
+  "Rating": "8.6/10",
+  "Duration": "118 min",
+  "Votes": 1631562
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5cb"
+  },
+  "Title": "Seven Samurai",
+  "Release Year": 1954,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki, Kamatari Fujiwara",
+  "Genre": "Action, Drama",
+  "Rating": "8.6/10",
+  "Duration": "207 min",
+  "Votes": 383377
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5cc"
+  },
+  "Title": "Saving Private Ryan",
+  "Release Year": 1998,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper, Adam Goldberg",
+  "Genre": "Drama, War",
+  "Rating": "8.6/10",
+  "Duration": "169 min",
+  "Votes": 1567235
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5cd"
+  },
+  "Title": "City of God",
+  "Release Year": 2002,
+  "Director": "Fernando Meirelles, Kátia Lund",
+  "Main Actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva, Jonathan Haagensen",
+  "Genre": "Crime, Drama",
+  "Rating": "8.6/10",
+  "Duration": "130 min",
+  "Votes": 836114
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ce"
+  },
+  "Title": "The Green Mile",
+  "Release Year": 1999,
+  "Director": "Frank Darabont",
+  "Main Actors": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan, James Cromwell",
+  "Genre": "Crime, Drama, Fantasy, Mystery",
+  "Rating": "8.6/10",
+  "Duration": "189 min",
+  "Votes": 1482670
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5cf"
+  },
+  "Title": "Life Is Beautiful",
+  "Release Year": 1997,
+  "Director": "Roberto Benigni",
+  "Main Actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Sergio Bini Bustric",
+  "Genre": "Comedy, Drama, Romance, War",
+  "Rating": "8.6/10",
+  "Duration": "116 min",
+  "Votes": 776885
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d0"
+  },
+  "Title": "Terminator 2: Judgment Day",
+  "Release Year": 1991,
+  "Director": "James Cameron",
+  "Main Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Rating": "8.6/10",
+  "Duration": "137 min",
+  "Votes": 1230258
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d1"
+  },
+  "Title": "Star Wars: Episode IV: A New Hope - Deleted Scenes",
+  "Release Year": 2011,
+  "Director": "",
+  "Main Actors": "Peter Barbour, Paul Blake, Ronn Brown, Janice Burchette, Ted Burnett",
+  "Genre": "Short, Action, Drama, Sci-Fi",
+  "Rating": "8.5/10",
+  "Duration": "16 min",
+  "Votes": 10089
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d2"
+  },
+  "Title": "Back to the Future",
+  "Release Year": 1985,
+  "Director": "Robert Zemeckis",
+  "Main Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, Tom Wilson",
+  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Rating": "8.5/10",
+  "Duration": "116 min",
+  "Votes": 1374921
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d3"
+  },
+  "Title": "Spirited Away",
+  "Release Year": 2001,
+  "Director": "Hayao Miyazaki",
+  "Main Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô, Yasuko Sawaguchi",
+  "Genre": "Animation, Adventure, Family, Fantasy, Mystery",
+  "Rating": "8.6/10",
+  "Duration": "124 min",
+  "Votes": 907918
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d4"
+  },
+  "Title": "The Pianist",
+  "Release Year": 2002,
+  "Director": "Roman Polanski",
+  "Main Actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard, Maureen Lipman",
+  "Genre": "Biography, Drama, Music, War",
+  "Rating": "8.5/10",
+  "Duration": "150 min",
+  "Votes": 966510
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d5"
+  },
+  "Title": "Gladiator",
+  "Release Year": 2000,
+  "Director": "Ridley Scott",
+  "Main Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris",
+  "Genre": "Action, Adventure, Drama",
+  "Rating": "8.5/10",
+  "Duration": "155 min",
+  "Votes": 1755721
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d6"
+  },
+  "Title": "Parasite",
+  "Release Year": 2019,
+  "Director": "Bong Joon Ho",
+  "Main Actors": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik, Park So-dam",
+  "Genre": "Drama, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "132 min",
+  "Votes": 1058743
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d7"
+  },
+  "Title": "Psycho",
+  "Release Year": 1960,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh, Martin Balsam",
+  "Genre": "Drama, Horror, Mystery, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "109 min",
+  "Votes": 751321
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d8"
+  },
+  "Title": "Mufasa: The Lion King",
+  "Release Year": 2024,
+  "Director": "Barry Jenkins",
+  "Main Actors": "Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Kagiso Lediga, Preston Nyman",
+  "Genre": "Animation, Adventure, Drama, Family, Fantasy, Musical",
+  "Rating": "6.6/10",
+  "Duration": "118 min",
+  "Votes": 64797
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5d9"
+  },
+  "Title": "The Departed",
+  "Release Year": 2006,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "151 min",
+  "Votes": 1485086
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5da"
+  },
+  "Title": "Whiplash",
+  "Release Year": 2014,
+  "Director": "Damien Chazelle",
+  "Main Actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell",
+  "Genre": "Drama, Music",
+  "Rating": "8.5/10",
+  "Duration": "106 min",
+  "Votes": 1071306
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5db"
+  },
+  "Title": "Harakiri",
+  "Release Year": 1962,
+  "Director": "Masaki Kobayashi",
+  "Main Actors": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba, Masao Mishima",
+  "Genre": "Drama, Mystery",
+  "Rating": "8.6/10",
+  "Duration": "133 min",
+  "Votes": 79272
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5dc"
+  },
+  "Title": "American History X",
+  "Release Year": 1998,
+  "Director": "Tony Kaye",
+  "Main Actors": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien, Ethan Suplee",
+  "Genre": "Crime, Drama",
+  "Rating": "8.5/10",
+  "Duration": "119 min",
+  "Votes": 1229528
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5dd"
+  },
+  "Title": "The Prestige",
+  "Release Year": 2006,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo, Rebecca Hall",
+  "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "130 min",
+  "Votes": 1511821
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5de"
+  },
+  "Title": "Léon: The Professional",
+  "Release Year": 1994,
+  "Director": "Luc Besson",
+  "Main Actors": "Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello, Peter Appel",
+  "Genre": "Action, Crime, Drama, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "110 min",
+  "Votes": 1300693
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5df"
+  },
+  "Title": "Spider-Man: Across the Spider-Verse",
+  "Release Year": 2023,
+  "Director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+  "Main Actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson",
+  "Genre": "Animation, Action, Adventure, Family, Fantasy, Sci-Fi",
+  "Rating": "8.5/10",
+  "Duration": "140 min",
+  "Votes": 452305
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e0"
+  },
+  "Title": "Casablanca",
+  "Release Year": 1942,
+  "Director": "Michael Curtiz",
+  "Main Actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt",
+  "Genre": "Drama, Romance, War",
+  "Rating": "8.5/10",
+  "Duration": "102 min",
+  "Votes": 630364
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e1"
+  },
+  "Title": "The Usual Suspects",
+  "Release Year": 1995,
+  "Director": "Bryan Singer",
+  "Main Actors": "Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak, Kevin Spacey",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "106 min",
+  "Votes": 1188065
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e2"
+  },
+  "Title": "The Intouchables",
+  "Release Year": 2011,
+  "Director": "Olivier Nakache, Éric Toledano",
+  "Main Actors": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.5/10",
+  "Duration": "112 min",
+  "Votes": 976341
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e3"
+  },
+  "Title": "Cinema Paradiso",
+  "Release Year": 1988,
+  "Director": "Giuseppe Tornatore",
+  "Main Actors": "Antonella Attili, Enzo Cannavale, Isa Danieli, Leo Gullotta, Marco Leonardi",
+  "Genre": "Drama, Romance",
+  "Rating": "8.5/10",
+  "Duration": "174 min",
+  "Votes": 300736
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e4"
+  },
+  "Title": "Alien",
+  "Release Year": 1979,
+  "Director": "Ridley Scott",
+  "Main Actors": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt",
+  "Genre": "Horror, Sci-Fi",
+  "Rating": "8.5/10",
+  "Duration": "117 min",
+  "Votes": 1014147
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e5"
+  },
+  "Title": "Modern Times",
+  "Release Year": 1936,
+  "Director": "Charles Chaplin",
+  "Main Actors": "Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford, Chester Conklin",
+  "Genre": "Comedy, Drama, Romance",
+  "Rating": "8.5/10",
+  "Duration": "87 min",
+  "Votes": 272399
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e6"
+  },
+  "Title": "Rear Window",
+  "Release Year": 1954,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr",
+  "Genre": "Drama, Mystery, Thriller",
+  "Rating": "8.5/10",
+  "Duration": "112 min",
+  "Votes": 545309
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e7"
+  },
+  "Title": "Once Upon a Time in the West",
+  "Release Year": 2019,
+  "Director": "Cibas Cebas",
+  "Main Actors": "John Wayne",
+  "Genre": "Short, Western",
+  "Rating": "8.4/10",
+  "Duration": "3 min",
+  "Votes": 9
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e8"
+  },
+  "Title": "Django Unchained",
+  "Release Year": 2012,
+  "Director": "Quentin Tarantino",
+  "Main Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson",
+  "Genre": "Western",
+  "Rating": "8.5/10",
+  "Duration": "165 min",
+  "Votes": 1787746
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5e9"
+  },
+  "Title": "City Lights",
+  "Release Year": 1931,
+  "Director": "Charles Chaplin",
+  "Main Actors": "Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia, Hank Mann",
+  "Genre": "Comedy, Drama, Romance",
+  "Rating": "8.5/10",
+  "Duration": "87 min",
+  "Votes": 206622
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ea"
+  },
+  "Title": "Apocalypse Now",
+  "Release Year": 1979,
+  "Director": "Francis Ford Coppola",
+  "Main Actors": "Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest, Sam Bottoms",
+  "Genre": "Drama, Mystery, War",
+  "Rating": "8.4/10",
+  "Duration": "147 min",
+  "Votes": 741076
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5eb"
+  },
+  "Title": "Dune: Part Two",
+  "Release Year": 2024,
+  "Director": "Denis Villeneuve",
+  "Main Actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin",
+  "Genre": "Action, Adventure, Drama, Sci-Fi",
+  "Rating": "8.5/10",
+  "Duration": "166 min",
+  "Votes": 626296
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ec"
+  },
+  "Title": "WALL·E",
+  "Release Year": 2008,
+  "Director": "Andrew Stanton",
+  "Main Actors": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, MacInTalk",
+  "Genre": "Animation, Adventure, Family, Sci-Fi",
+  "Rating": "8.4/10",
+  "Duration": "98 min",
+  "Votes": 1258701
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ed"
+  },
+  "Title": "Memento",
+  "Release Year": 2000,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior, Russ Fega",
+  "Genre": "Mystery, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "113 min",
+  "Votes": 1376697
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ee"
+  },
+  "Title": "Raiders of the Lost Ark",
+  "Release Year": 1981,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey, John Rhys-Davies",
+  "Genre": "Action, Adventure",
+  "Rating": "8.4/10",
+  "Duration": "115 min",
+  "Votes": 1072656
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ef"
+  },
+  "Title": "Avengers: Infinity War",
+  "Release Year": 2018,
+  "Director": "Anthony Russo, Joe Russo",
+  "Main Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Rating": "8.4/10",
+  "Duration": "149 min",
+  "Votes": 1283579
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f0"
+  },
+  "Title": "Sunset Boulevard",
+  "Release Year": 1950,
+  "Director": "Billy Wilder",
+  "Main Actors": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson, Fred Clark",
+  "Genre": "Drama, Film-Noir",
+  "Rating": "8.4/10",
+  "Duration": "110 min",
+  "Votes": 248500
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f1"
+  },
+  "Title": "Spider-Man: Into the Spider-Verse",
+  "Release Year": 2018,
+  "Director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+  "Main Actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry",
+  "Genre": "Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",
+  "Rating": "8.4/10",
+  "Duration": "117 min",
+  "Votes": 728644
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f2"
+  },
+  "Title": "Witness for the Prosecution",
+  "Release Year": 1957,
+  "Director": "Billy Wilder",
+  "Main Actors": "Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester, John Williams",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "116 min",
+  "Votes": 149647
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f3"
+  },
+  "Title": "Paths of Glory",
+  "Release Year": 1957,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready, Wayne Morris",
+  "Genre": "Drama, War",
+  "Rating": "8.4/10",
+  "Duration": "88 min",
+  "Votes": 225632
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f4"
+  },
+  "Title": "The Shining",
+  "Release Year": 1980,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers, Barry Nelson",
+  "Genre": "Drama, Horror",
+  "Rating": "8.4/10",
+  "Duration": "146 min",
+  "Votes": 1164629
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f5"
+  },
+  "Title": "The Great Dictator",
+  "Release Year": 1940,
+  "Director": "Charles Chaplin",
+  "Main Actors": "Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell, Billy Gilbert",
+  "Genre": "Comedy, Drama, War",
+  "Rating": "8.4/10",
+  "Duration": "125 min",
+  "Votes": 248451
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f6"
+  },
+  "Title": "12th Fail",
+  "Release Year": 2023,
+  "Director": "Vidhu Vinod Chopra",
+  "Main Actors": "Vikrant Massey, Medha Shankr, Anant Joshi, Anshuman Pushkar, Geeta Agrawal Sharma",
+  "Genre": "Biography, Drama",
+  "Rating": "8.8/10",
+  "Duration": "147 min",
+  "Votes": 146730
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f7"
+  },
+  "Title": "Aliens",
+  "Release Year": 1986,
+  "Director": "James Cameron",
+  "Main Actors": "Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen",
+  "Genre": "Action, Adventure, Horror, Sci-Fi, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "137 min",
+  "Votes": 807612
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f8"
+  },
+  "Title": "Inglourious Basterds",
+  "Release Year": 2009,
+  "Director": "Quentin Tarantino",
+  "Main Actors": "Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth, Michael Fassbender",
+  "Genre": "Adventure, Drama, War",
+  "Rating": "8.4/10",
+  "Duration": "153 min",
+  "Votes": 1678741
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5f9"
+  },
+  "Title": "The Dark Knight Rises",
+  "Release Year": 2012,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway",
+  "Genre": "Action, Crime, Drama, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "164 min",
+  "Votes": 1910092
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5fa"
+  },
+  "Title": "Coco",
+  "Release Year": 2017,
+  "Director": "Lee Unkrich, Adrian Molina",
+  "Main Actors": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renee Victor",
+  "Genre": "Animation, Adventure, Drama, Family, Fantasy, Music, Mystery",
+  "Rating": "8.4/10",
+  "Duration": "105 min",
+  "Votes": 648122
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5fb"
+  },
+  "Title": "Amadeus",
+  "Release Year": 1984,
+  "Director": "Milos Forman",
+  "Main Actors": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice, Simon Callow",
+  "Genre": "Biography, Drama, Music",
+  "Rating": "8.4/10",
+  "Duration": "160 min",
+  "Votes": 447923
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5fc"
+  },
+  "Title": "Toy Story",
+  "Release Year": 1995,
+  "Director": "John Lasseter",
+  "Main Actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Rating": "8.3/10",
+  "Duration": "81 min",
+  "Votes": 1120646
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5fd"
+  },
+  "Title": "Avengers: Endgame",
+  "Release Year": 2019,
+  "Director": "Anthony Russo, Joe Russo",
+  "Main Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Rating": "8.4/10",
+  "Duration": "181 min",
+  "Votes": 1353198
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5fe"
+  },
+  "Title": "Good Will Hunting",
+  "Release Year": 1997,
+  "Director": "Gus Van Sant",
+  "Main Actors": "Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton, Rachel Majorowski",
+  "Genre": "Drama, Romance",
+  "Rating": "8.3/10",
+  "Duration": "126 min",
+  "Votes": 1135192
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd5ff"
+  },
+  "Title": "Oldboy",
+  "Release Year": 2003,
+  "Director": "Park Chan-wook",
+  "Main Actors": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok, Ji Dae-han",
+  "Genre": "Action, Drama, Mystery, Thriller",
+  "Rating": "8.3/10",
+  "Duration": "120 min",
+  "Votes": 677432
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd600"
+  },
+  "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "Release Year": 1964,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens",
+  "Genre": "Comedy, War",
+  "Rating": "8.3/10",
+  "Duration": "95 min",
+  "Votes": 537040
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd601"
+  },
+  "Title": "Das Boot",
+  "Release Year": 1981,
+  "Director": "Wolfgang Petersen",
+  "Main Actors": "Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch, Martin Semmelrogge",
+  "Genre": "Drama, War",
+  "Rating": "8.4/10",
+  "Duration": "149 min",
+  "Votes": 278873
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd602"
+  },
+  "Title": "American Beauty",
+  "Release Year": 1999,
+  "Director": "Sam Mendes",
+  "Main Actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley, Mena Suvari",
+  "Genre": "Drama",
+  "Rating": "8.3/10",
+  "Duration": "122 min",
+  "Votes": 1247580
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd603"
+  },
+  "Title": "Braveheart",
+  "Release Year": 1995,
+  "Director": "Mel Gibson",
+  "Main Actors": "James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo, Sean McGinley",
+  "Genre": "Biography, Drama, War",
+  "Rating": "8.3/10",
+  "Duration": "178 min",
+  "Votes": 1128125
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd604"
+  },
+  "Title": "Princess Mononoke",
+  "Release Year": 1997,
+  "Director": "Hayao Miyazaki",
+  "Main Actors": "Billy Crudup, Billy Bob Thornton, Minnie Driver, John DiMaggio, Claire Danes",
+  "Genre": "Animation, Adventure, Fantasy",
+  "Rating": "8.3/10",
+  "Duration": "133 min",
+  "Votes": 459295
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd605"
+  },
+  "Title": "Your Name.",
+  "Release Year": 2016,
+  "Director": "Makoto Shinkai",
+  "Main Actors": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita, Aoi Yûki, Nobunaga Shimazaki",
+  "Genre": "Animation, Drama, Fantasy, Romance",
+  "Rating": "8.4/10",
+  "Duration": "106 min",
+  "Votes": 355627
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd606"
+  },
+  "Title": "High and Low",
+  "Release Year": 1963,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Toshirô Mifune, Tatsuya Nakadai, Kyôko Kagawa, Tatsuya Mihashi, Isao Kimura",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "143 min",
+  "Votes": 59861
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd607"
+  },
+  "Title": "3 Idiots",
+  "Release Year": 2009,
+  "Director": "Rajkumar Hirani",
+  "Main Actors": "Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor, Boman Irani",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.4/10",
+  "Duration": "170 min",
+  "Votes": 457554
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd608"
+  },
+  "Title": "Joker",
+  "Release Year": 2019,
+  "Director": "Todd Phillips",
+  "Main Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.3/10",
+  "Duration": "122 min",
+  "Votes": 1605490
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd609"
+  },
+  "Title": "Once Upon a Time in America",
+  "Release Year": 1984,
+  "Director": "Sergio Leone",
+  "Main Actors": "Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams, Tuesday Weld",
+  "Genre": "Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "229 min",
+  "Votes": 394465
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60a"
+  },
+  "Title": "The Chaos Class Failed the Class",
+  "Release Year": 1975,
+  "Director": "Ertem Egilmez",
+  "Main Actors": "Münir Özkul, Tarik Akan, Kemal Sunal, Adile Nasit, Halit Akçatepe",
+  "Genre": "Comedy",
+  "Rating": "8.8/10",
+  "Duration": "95 min",
+  "Votes": 26135
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60b"
+  },
+  "Title": "Capernaum",
+  "Release Year": 2018,
+  "Director": "Nadine Labaki",
+  "Main Actors": "Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole, Kawsar Al Haddad, Fadi Yousef",
+  "Genre": "Drama",
+  "Rating": "8.4/10",
+  "Duration": "126 min",
+  "Votes": 115768
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60c"
+  },
+  "Title": "Singin' in the Rain",
+  "Release Year": 1952,
+  "Director": "Stanley Donen, Gene Kelly",
+  "Main Actors": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen, Millard Mitchell",
+  "Genre": "Comedy, Musical, Romance",
+  "Rating": "8.3/10",
+  "Duration": "103 min",
+  "Votes": 272188
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60d"
+  },
+  "Title": "Come and See",
+  "Release Year": 1985,
+  "Director": "Elem Klimov",
+  "Main Actors": "Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas, Jüri Lumiste",
+  "Genre": "Drama, Thriller, War",
+  "Rating": "8.3/10",
+  "Duration": "142 min",
+  "Votes": 111363
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60e"
+  },
+  "Title": "Requiem for a Dream",
+  "Release Year": 2000,
+  "Director": "Darren Aronofsky",
+  "Main Actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans, Christopher McDonald",
+  "Genre": "Drama",
+  "Rating": "8.3/10",
+  "Duration": "102 min",
+  "Votes": 937380
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd60f"
+  },
+  "Title": "Toy Story 3",
+  "Release Year": 2010,
+  "Director": "Lee Unkrich",
+  "Main Actors": "Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty, Don Rickles",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Rating": "8.3/10",
+  "Duration": "103 min",
+  "Votes": 930279
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd610"
+  },
+  "Title": "Star Wars: Episode VI - Return of the Jedi",
+  "Release Year": 1983,
+  "Director": "Richard Marquand",
+  "Main Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels",
+  "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+  "Rating": "8.3/10",
+  "Duration": "131 min",
+  "Votes": 1162673
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd611"
+  },
+  "Title": "The Hunt",
+  "Release Year": 2020,
+  "Director": "Craig Zobel",
+  "Main Actors": "Betty Gilpin, Hilary Swank, Ike Barinholtz, Wayne Duvall, Ethan Suplee",
+  "Genre": "Action, Horror, Thriller",
+  "Rating": "6.6/10",
+  "Duration": "90 min",
+  "Votes": 143679
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd612"
+  },
+  "Title": "Ikiru",
+  "Release Year": 1952,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Takashi Shimura, Shin'ichi Himori, Haruo Tanaka, Minoru Chiaki, Miki Odagiri",
+  "Genre": "Drama",
+  "Rating": "8.3/10",
+  "Duration": "143 min",
+  "Votes": 96158
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd613"
+  },
+  "Title": "Eternal Sunshine of the Spotless Mind",
+  "Release Year": 2004,
+  "Director": "Michel Gondry",
+  "Main Actors": "Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood, Thomas Jay Ryan",
+  "Genre": "Drama, Romance, Sci-Fi",
+  "Rating": "8.3/10",
+  "Duration": "108 min",
+  "Votes": 1134632
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd614"
+  },
+  "Title": "2001: A Space Odyssey",
+  "Release Year": 1968,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter, Leonard Rossiter",
+  "Genre": "Adventure, Sci-Fi",
+  "Rating": "8.3/10",
+  "Duration": "149 min",
+  "Votes": 752439
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd615"
+  },
+  "Title": "Reservoir Dogs",
+  "Release Year": 1992,
+  "Director": "Quentin Tarantino",
+  "Main Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn, Steve Buscemi",
+  "Genre": "Crime, Thriller",
+  "Rating": "8.3/10",
+  "Duration": "99 min",
+  "Votes": 1130858
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd616"
+  },
+  "Title": "The Apartment",
+  "Release Year": 1960,
+  "Director": "Billy Wilder",
+  "Main Actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen",
+  "Genre": "Comedy, Drama, Romance",
+  "Rating": "8.3/10",
+  "Duration": "125 min",
+  "Votes": 208569
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd617"
+  },
+  "Title": "Incendies",
+  "Release Year": 2010,
+  "Director": "Denis Villeneuve",
+  "Main Actors": "Mustafa Kamel, Hussein Sami, Rémy Girard, Mélissa Désormeaux-Poulin, Maxim Gaudette",
+  "Genre": "Drama, Mystery, War",
+  "Rating": "8.3/10",
+  "Duration": "131 min",
+  "Votes": 226704
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd618"
+  },
+  "Title": "Lawrence of Arabia",
+  "Release Year": 1962,
+  "Director": "David Lean",
+  "Main Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins, Omar Sharif",
+  "Genre": "Adventure, Biography, Drama, War",
+  "Rating": "8.3/10",
+  "Duration": "227 min",
+  "Votes": 328668
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd619"
+  },
+  "Title": "Scarface",
+  "Release Year": 1983,
+  "Director": "Brian De Palma",
+  "Main Actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio, Robert Loggia",
+  "Genre": "Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "170 min",
+  "Votes": 963515
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61a"
+  },
+  "Title": "Double Indemnity",
+  "Release Year": 1944,
+  "Director": "Billy Wilder",
+  "Main Actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall, Jean Heather",
+  "Genre": "Crime, Drama, Film-Noir, Mystery, Thriller",
+  "Rating": "8.3/10",
+  "Duration": "107 min",
+  "Votes": 174595
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61b"
+  },
+  "Title": "Heat",
+  "Release Year": 1995,
+  "Director": "Michael Mann",
+  "Main Actors": "Al Pacino, Robert De Niro, Val Kilmer, Jon Voight, Tom Sizemore",
+  "Genre": "Action, Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "170 min",
+  "Votes": 756475
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61c"
+  },
+  "Title": "North by Northwest",
+  "Release Year": 1959,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis, Leo G. Carroll",
+  "Genre": "Adventure, Drama, Mystery, Thriller",
+  "Rating": "8.3/10",
+  "Duration": "136 min",
+  "Votes": 359942
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61d"
+  },
+  "Title": "Up",
+  "Release Year": 2009,
+  "Director": "Pete Docter, Bob Peterson",
+  "Main Actors": "Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo",
+  "Genre": "Animation, Adventure, Comedy, Drama, Family",
+  "Rating": "8.3/10",
+  "Duration": "96 min",
+  "Votes": 1179640
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61e"
+  },
+  "Title": "Citizen Kane",
+  "Release Year": 1941,
+  "Director": "Orson Welles",
+  "Main Actors": "Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick, Ray Collins",
+  "Genre": "Drama, Mystery",
+  "Rating": "8.3/10",
+  "Duration": "119 min",
+  "Votes": 480410
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd61f"
+  },
+  "Title": "MobLand",
+  "Release Year": 2025,
+  "Director": "",
+  "Main Actors": "Tom Hardy, Pierce Brosnan, Joanne Froggatt, Lara Pulver, Anson Boon",
+  "Genre": "Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "50 min",
+  "Votes": 12098
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd620"
+  },
+  "Title": "Full Metal Jacket",
+  "Release Year": 1987,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey, Dorian Harewood",
+  "Genre": "Drama, War",
+  "Rating": "8.2/10",
+  "Duration": "116 min",
+  "Votes": 820648
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd621"
+  },
+  "Title": "Vertigo",
+  "Release Year": 1958,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones",
+  "Genre": "Mystery, Romance, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "128 min",
+  "Votes": 444370
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd622"
+  },
+  "Title": "Amélie",
+  "Release Year": 2001,
+  "Director": "Jean-Pierre Jeunet",
+  "Main Actors": "Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta, Serge Merlin",
+  "Genre": "Comedy, Romance",
+  "Rating": "8.3/10",
+  "Duration": "122 min",
+  "Votes": 817610
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd623"
+  },
+  "Title": "A Separation",
+  "Release Year": 2011,
+  "Director": "Asghar Farhadi",
+  "Main Actors": "Leila Hatami, Payman Maadi, Shahab Hosseini, Sareh Bayat, Sarina Farhadi",
+  "Genre": "Drama",
+  "Rating": "8.3/10",
+  "Duration": "123 min",
+  "Votes": 268899
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd624"
+  },
+  "Title": "To Kill a Mockingbird",
+  "Release Year": 1962,
+  "Director": "Robert Mulligan",
+  "Main Actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy, Ruth White",
+  "Genre": "Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "129 min",
+  "Votes": 342876
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd625"
+  },
+  "Title": "A Clockwork Orange",
+  "Release Year": 1971,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke, John Clive",
+  "Genre": "Crime, Sci-Fi",
+  "Rating": "8.2/10",
+  "Duration": "136 min",
+  "Votes": 910488
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd626"
+  },
+  "Title": "Like Stars on Earth",
+  "Release Year": 2007,
+  "Director": "Aamir Khan",
+  "Main Actors": "Darsheel Safary, Aamir Khan, Tisca Chopra, Vipin Sharma, Tanay Chheda",
+  "Genre": "Drama, Family",
+  "Rating": "8.3/10",
+  "Duration": "162 min",
+  "Votes": 217325
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd627"
+  },
+  "Title": "Die Hard",
+  "Release Year": 1988,
+  "Director": "John McTiernan",
+  "Main Actors": "Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason, De'voreaux White",
+  "Genre": "Action, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "132 min",
+  "Votes": 988953
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd628"
+  },
+  "Title": "The Sting",
+  "Release Year": 1973,
+  "Director": "George Roy Hill",
+  "Main Actors": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning, Ray Walston",
+  "Genre": "Comedy, Crime, Drama",
+  "Rating": "8.3/10",
+  "Duration": "129 min",
+  "Votes": 289938
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd629"
+  },
+  "Title": "Indiana Jones and the Last Crusade",
+  "Release Year": 1989,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody, John Rhys-Davies",
+  "Genre": "Action, Adventure",
+  "Rating": "8.2/10",
+  "Duration": "127 min",
+  "Votes": 837424
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62a"
+  },
+  "Title": "Oppenheimer",
+  "Release Year": 2023,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Cillian Murphy, Emily Blunt, Robert Downey Jr., Alden Ehrenreich, Scott Grimes",
+  "Genre": "Biography, Drama, History",
+  "Rating": "8.3/10",
+  "Duration": "180 min",
+  "Votes": 885603
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62b"
+  },
+  "Title": "Metropolis",
+  "Release Year": 1927,
+  "Director": "Fritz Lang",
+  "Main Actors": "Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp, Theodor Loos",
+  "Genre": "Drama, Sci-Fi",
+  "Rating": "8.3/10",
+  "Duration": "153 min",
+  "Votes": 194018
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62c"
+  },
+  "Title": "Snatch",
+  "Release Year": 2000,
+  "Director": "Guy Ritchie",
+  "Main Actors": "Ade, William Beck, Andy Beckwith, Ewen Bremner, Jason Buckham",
+  "Genre": "Comedy, Crime",
+  "Rating": "8.2/10",
+  "Duration": "104 min",
+  "Votes": 944838
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62d"
+  },
+  "Title": "1917",
+  "Release Year": 2019,
+  "Director": "Sam Mendes",
+  "Main Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth, Pip Carter",
+  "Genre": "Action, Drama, War",
+  "Rating": "8.2/10",
+  "Duration": "119 min",
+  "Votes": 726174
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62e"
+  },
+  "Title": "L.A. Confidential",
+  "Release Year": 1997,
+  "Director": "Curtis Hanson",
+  "Main Actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "138 min",
+  "Votes": 640235
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd62f"
+  },
+  "Title": "Bicycle Thieves",
+  "Release Year": 1948,
+  "Director": "Vittorio De Sica",
+  "Main Actors": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri, Gino Saltamerenda",
+  "Genre": "Drama",
+  "Rating": "8.2/10",
+  "Duration": "89 min",
+  "Votes": 185036
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd630"
+  },
+  "Title": "Downfall",
+  "Release Year": 2004,
+  "Director": "Oliver Hirschbiegel",
+  "Main Actors": "Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes, Juliane Köhler",
+  "Genre": "Biography, Drama, History, War",
+  "Rating": "8.2/10",
+  "Duration": "156 min",
+  "Votes": 387967
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd631"
+  },
+  "Title": "Dangal",
+  "Release Year": 2016,
+  "Director": "Nitesh Tiwari",
+  "Main Actors": "Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwar, Aparshakti Khurana",
+  "Genre": "Action, Biography, Drama, Sport",
+  "Rating": "8.3/10",
+  "Duration": "161 min",
+  "Votes": 224901
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd632"
+  },
+  "Title": "The Wolf of Wall Street",
+  "Release Year": 2013,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler",
+  "Genre": "Biography, Comedy, Crime, Drama",
+  "Rating": "8.2/10",
+  "Duration": "180 min",
+  "Votes": 1682796
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd633"
+  },
+  "Title": "Hamilton",
+  "Release Year": 2020,
+  "Director": "Thomas Kail",
+  "Main Actors": "Daveed Diggs, Renée Elise Goldsberry, Jonathan Groff, Chris Jackson, Jasmine Cephas Jones",
+  "Genre": "Biography, Drama, History, Musical",
+  "Rating": "8.3/10",
+  "Duration": "160 min",
+  "Votes": 127150
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd634"
+  },
+  "Title": "Taxi Driver",
+  "Release Year": 1976,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito, Garth Avery",
+  "Genre": "Crime, Drama",
+  "Rating": "8.2/10",
+  "Duration": "114 min",
+  "Votes": 976851
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd635"
+  },
+  "Title": "Green Book",
+  "Release Year": 2018,
+  "Director": "Peter Farrelly",
+  "Main Actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco, Dimiter D. Marinov",
+  "Genre": "Biography, Comedy, Drama, Music",
+  "Rating": "8.2/10",
+  "Duration": "130 min",
+  "Votes": 633397
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd636"
+  },
+  "Title": "Batman Begins",
+  "Release Year": 2005,
+  "Director": "Christopher Nolan",
+  "Main Actors": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman",
+  "Genre": "Action, Crime, Drama, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "140 min",
+  "Votes": 1643912
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd637"
+  },
+  "Title": "For A Few Dollars More",
+  "Release Year": 2020,
+  "Director": "Meg Pfeiffer",
+  "Main Actors": "",
+  "Genre": "Music, Western",
+  "Rating": "7.5/10",
+  "Duration": "3 min",
+  "Votes": 11
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd638"
+  },
+  "Title": "The Truman Show",
+  "Release Year": 1998,
+  "Director": "Peter Weir",
+  "Main Actors": "Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone, Holland Taylor",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.2/10",
+  "Duration": "103 min",
+  "Votes": 1276147
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd639"
+  },
+  "Title": "Judgment at Nuremberg",
+  "Release Year": 1961,
+  "Director": "Stanley Kramer",
+  "Main Actors": "Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich, Maximilian Schell",
+  "Genre": "Drama, War",
+  "Rating": "8.3/10",
+  "Duration": "179 min",
+  "Votes": 91315
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63a"
+  },
+  "Title": "Some Like It Hot",
+  "Release Year": 1959,
+  "Director": "Billy Wilder",
+  "Main Actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft, Pat O'Brien",
+  "Genre": "Comedy, Music, Romance",
+  "Rating": "8.2/10",
+  "Duration": "121 min",
+  "Votes": 294635
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63b"
+  },
+  "Title": "Shutter Island",
+  "Release Year": 2010,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow, Michelle Williams",
+  "Genre": "Drama, Mystery, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "138 min",
+  "Votes": 1546089
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63c"
+  },
+  "Title": "The Karate Kid",
+  "Release Year": 1984,
+  "Director": "John G. Avildsen",
+  "Main Actors": "Ralph Macchio, Pat Morita, Elisabeth Shue, Martin Kove, Randee Heller",
+  "Genre": "Action, Drama, Family, Sport",
+  "Rating": "7.3/10",
+  "Duration": "126 min",
+  "Votes": 258403
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63d"
+  },
+  "Title": "The Father",
+  "Release Year": 2020,
+  "Director": "Florian Zeller",
+  "Main Actors": "Olivia Colman, Anthony Hopkins, Mark Gatiss, Olivia Williams, Imogen Poots",
+  "Genre": "Drama, Mystery",
+  "Rating": "8.2/10",
+  "Duration": "97 min",
+  "Votes": 212447
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63e"
+  },
+  "Title": "All About Eve",
+  "Release Year": 1950,
+  "Director": "Joseph L. Mankiewicz",
+  "Main Actors": "Bette Davis, Anne Baxter, George Sanders, Celeste Holm, Gary Merrill",
+  "Genre": "Drama",
+  "Rating": "8.2/10",
+  "Duration": "138 min",
+  "Votes": 144497
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd63f"
+  },
+  "Title": "Jurassic Park",
+  "Release Year": 1993,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Bob Peck",
+  "Genre": "Action, Adventure, Sci-Fi, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "127 min",
+  "Votes": 1117382
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd640"
+  },
+  "Title": "There Will Be Blood",
+  "Release Year": 2007,
+  "Director": "Paul Thomas Anderson",
+  "Main Actors": "Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer, Joseph Mussey",
+  "Genre": "Drama",
+  "Rating": "8.2/10",
+  "Duration": "158 min",
+  "Votes": 669850
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd641"
+  },
+  "Title": "Casino",
+  "Release Year": 1995,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Robert De Niro, Sharon Stone, Joe Pesci, James Woods, Don Rickles",
+  "Genre": "Crime, Drama",
+  "Rating": "8.2/10",
+  "Duration": "178 min",
+  "Votes": 591327
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd642"
+  },
+  "Title": "The Sixth Sense",
+  "Release Year": 1999,
+  "Director": "M. Night Shyamalan",
+  "Main Actors": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams, Trevor Morgan",
+  "Genre": "Drama, Mystery, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "107 min",
+  "Votes": 1097799
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd643"
+  },
+  "Title": "Ran",
+  "Release Year": 1985,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ryû, Mieko Harada",
+  "Genre": "Action, Drama, War",
+  "Rating": "8.2/10",
+  "Duration": "160 min",
+  "Votes": 143494
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd644"
+  },
+  "Title": "Top Gun: Maverick",
+  "Release Year": 2022,
+  "Director": "Joseph Kosinski",
+  "Main Actors": "Tom Cruise, Val Kilmer, Miles Teller, Jennifer Connelly, Bashir Salahuddin",
+  "Genre": "Action, Drama",
+  "Rating": "8.2/10",
+  "Duration": "130 min",
+  "Votes": 772778
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd645"
+  },
+  "Title": "No Country for Old Men",
+  "Release Year": 2007,
+  "Director": "Ethan Coen, Joel Coen",
+  "Main Actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "122 min",
+  "Votes": 1119802
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd646"
+  },
+  "Title": "The Thing",
+  "Release Year": 1982,
+  "Director": "John Carpenter",
+  "Main Actors": "Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon, Keith David",
+  "Genre": "Horror, Mystery, Sci-Fi",
+  "Rating": "8.2/10",
+  "Duration": "109 min",
+  "Votes": 497416
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd647"
+  },
+  "Title": "Pan's Labyrinth",
+  "Release Year": 2006,
+  "Director": "Guillermo del Toro",
+  "Main Actors": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones, Ariadna Gil",
+  "Genre": "Drama, Fantasy, War",
+  "Rating": "8.2/10",
+  "Duration": "118 min",
+  "Votes": 724050
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd648"
+  },
+  "Title": "Unforgiven",
+  "Release Year": 1992,
+  "Director": "Clint Eastwood",
+  "Main Actors": "Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",
+  "Genre": "Drama, Western",
+  "Rating": "8.2/10",
+  "Duration": "130 min",
+  "Votes": 453799
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd649"
+  },
+  "Title": "A Beautiful Mind",
+  "Release Year": 2001,
+  "Director": "Ron Howard",
+  "Main Actors": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer, Paul Bettany",
+  "Genre": "Biography, Drama, Mystery",
+  "Rating": "8.2/10",
+  "Duration": "135 min",
+  "Votes": 1020779
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64a"
+  },
+  "Title": "Kill Bill: Vol. 1",
+  "Release Year": 2003,
+  "Director": "Quentin Tarantino",
+  "Main Actors": "Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah, David Carradine",
+  "Genre": "Action, Crime, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "111 min",
+  "Votes": 1248931
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64b"
+  },
+  "Title": "The Treasure of the Sierra Madre",
+  "Release Year": 1948,
+  "Director": "John Huston",
+  "Main Actors": "Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane",
+  "Genre": "Adventure, Drama, Western",
+  "Rating": "8.2/10",
+  "Duration": "126 min",
+  "Votes": 137203
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64c"
+  },
+  "Title": "Prisoners",
+  "Release Year": 2013,
+  "Director": "Denis Villeneuve",
+  "Main Actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "153 min",
+  "Votes": 869371
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64d"
+  },
+  "Title": "Yojimbo",
+  "Release Year": 1961,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Toshirô Mifune, Tatsuya Nakadai, Yôko Tsukasa, Isuzu Yamada, Daisuke Katô",
+  "Genre": "Action, Drama, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "110 min",
+  "Votes": 137414
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64e"
+  },
+  "Title": "Finding Nemo",
+  "Release Year": 2003,
+  "Director": "Andrew Stanton, Lee Unkrich",
+  "Main Actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, Brad Garrett",
+  "Genre": "Animation, Adventure, Comedy, Family",
+  "Rating": "8.2/10",
+  "Duration": "100 min",
+  "Votes": 1158400
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd64f"
+  },
+  "Title": "The Great Escape",
+  "Release Year": 1963,
+  "Director": "John Sturges",
+  "Main Actors": "Steve McQueen, James Garner, Richard Attenborough, James Donald, Charles Bronson",
+  "Genre": "Adventure, Drama, Thriller, War",
+  "Rating": "8.2/10",
+  "Duration": "172 min",
+  "Votes": 268189
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd650"
+  },
+  "Title": "Howl's Moving Castle",
+  "Release Year": 2004,
+  "Director": "Hayao Miyazaki",
+  "Main Actors": "Chieko Baishô, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin, Ryûnosuke Kamiki",
+  "Genre": "Animation, Adventure, Family, Fantasy",
+  "Rating": "8.2/10",
+  "Duration": "119 min",
+  "Votes": 481939
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd651"
+  },
+  "Title": "Monty Python and the Holy Grail",
+  "Release Year": 1975,
+  "Director": "Terry Gilliam, Terry Jones",
+  "Main Actors": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones",
+  "Genre": "Adventure, Comedy, Fantasy",
+  "Rating": "8.2/10",
+  "Duration": "91 min",
+  "Votes": 587048
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd652"
+  },
+  "Title": "The Elephant Man",
+  "Release Year": 1980,
+  "Director": "David Lynch",
+  "Main Actors": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller",
+  "Genre": "Biography, Drama",
+  "Rating": "8.2/10",
+  "Duration": "124 min",
+  "Votes": 272368
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd653"
+  },
+  "Title": "Dial M for Murder",
+  "Release Year": 1954,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "Ray Milland, Grace Kelly, Robert Cummings, John Williams, Anthony Dawson",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "105 min",
+  "Votes": 197561
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd654"
+  },
+  "Title": "Gone with the Wind",
+  "Release Year": 1939,
+  "Director": "Victor Fleming",
+  "Main Actors": "Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes, Ann Rutherford",
+  "Genre": "Drama, Romance, War",
+  "Rating": "8.2/10",
+  "Duration": "238 min",
+  "Votes": 345977
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd655"
+  },
+  "Title": "Klaus",
+  "Release Year": 2019,
+  "Director": "Sergio Pablos, Carlos Martínez López",
+  "Main Actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso, Neda Margrethe Labba",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Rating": "8.2/10",
+  "Duration": "96 min",
+  "Votes": 213727
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd656"
+  },
+  "Title": "Rashomon",
+  "Release Year": 1950,
+  "Director": "Akira Kurosawa",
+  "Main Actors": "Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura, Minoru Chiaki",
+  "Genre": "Crime, Drama, Mystery",
+  "Rating": "8.2/10",
+  "Duration": "88 min",
+  "Votes": 189103
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd657"
+  },
+  "Title": "Chinatown",
+  "Release Year": 1974,
+  "Director": "Roman Polanski",
+  "Main Actors": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez, John Hillerman",
+  "Genre": "Drama, Mystery, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "130 min",
+  "Votes": 364469
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd658"
+  },
+  "Title": "The Secret in Their Eyes",
+  "Release Year": 2009,
+  "Director": "Juan José Campanella",
+  "Main Actors": "Soledad Villamil, Ricardo Darín, Carla Quevedo, Pablo Rago, Javier Godino",
+  "Genre": "Drama, Mystery, Romance, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "129 min",
+  "Votes": 232288
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd659"
+  },
+  "Title": "Lock, Stock and Two Smoking Barrels",
+  "Release Year": 1998,
+  "Director": "Guy Ritchie",
+  "Main Actors": "Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham, Steven Mackintosh",
+  "Genre": "Comedy, Crime",
+  "Rating": "8.1/10",
+  "Duration": "107 min",
+  "Votes": 634445
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65a"
+  },
+  "Title": "V for Vendetta",
+  "Release Year": 2005,
+  "Director": "James McTeigue",
+  "Main Actors": "Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry, John Hurt",
+  "Genre": "Action, Drama, Sci-Fi, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "132 min",
+  "Votes": 1213638
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65b"
+  },
+  "Title": "Inside Out",
+  "Release Year": 2015,
+  "Director": "Pete Docter, Ronnie Del Carmen",
+  "Main Actors": "Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black",
+  "Genre": "Animation, Adventure, Comedy, Drama, Family, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "95 min",
+  "Votes": 865518
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65c"
+  },
+  "Title": "Three Billboards Outside Ebbing, Missouri",
+  "Release Year": 2017,
+  "Director": "Martin McDonagh",
+  "Main Actors": "Frances McDormand, Caleb Landry Jones, Kerry Condon, Sam Rockwell, Alejandro Barrios",
+  "Genre": "Comedy, Crime, Drama",
+  "Rating": "8.1/10",
+  "Duration": "115 min",
+  "Votes": 582015
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65d"
+  },
+  "Title": "The Bridge on the River Kwai",
+  "Release Year": 1957,
+  "Director": "David Lean",
+  "Main Actors": "William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald",
+  "Genre": "Adventure, Drama, War",
+  "Rating": "8.1/10",
+  "Duration": "161 min",
+  "Votes": 241511
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65e"
+  },
+  "Title": "Trainspotting",
+  "Release Year": 1996,
+  "Director": "Danny Boyle",
+  "Main Actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Robert Carlyle",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "93 min",
+  "Votes": 748580
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd65f"
+  },
+  "Title": "Catch Me If You Can",
+  "Release Year": 2002,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen, Nathalie Baye",
+  "Genre": "Biography, Crime, Drama",
+  "Rating": "8.1/10",
+  "Duration": "141 min",
+  "Votes": 1162451
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd660"
+  },
+  "Title": "Raging Bull",
+  "Release Year": 1980,
+  "Director": "Martin Scorsese",
+  "Main Actors": "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent, Nicholas Colasanto",
+  "Genre": "Biography, Drama, Sport",
+  "Rating": "8.1/10",
+  "Duration": "129 min",
+  "Votes": 395145
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd661"
+  },
+  "Title": "The Wild Robot",
+  "Release Year": 2024,
+  "Director": "Chris Sanders",
+  "Main Actors": "Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu",
+  "Genre": "Animation, Sci-Fi",
+  "Rating": "8.2/10",
+  "Duration": "102 min",
+  "Votes": 164492
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd662"
+  },
+  "Title": "Fargo",
+  "Release Year": 2014,
+  "Director": "",
+  "Main Actors": "Allison Tolman, Billy Bob Thornton, Colin Hanks, Jason Schwartzman, Martin Freeman",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.8/10",
+  "Duration": "60 min",
+  "Votes": 444020
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd663"
+  },
+  "Title": "Warrior",
+  "Release Year": 2019,
+  "Director": "",
+  "Main Actors": "Andrew Koji, Olivia Cheng, Jason Tobin, Dianne Doan, Kieran Bew",
+  "Genre": "Action, Crime, Drama, History",
+  "Rating": "8.4/10",
+  "Duration": "60 min",
+  "Votes": 49851
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd664"
+  },
+  "Title": "Harry Potter and the Deathly Hallows: Part 2",
+  "Release Year": 2011,
+  "Director": "David Yates",
+  "Main Actors": "Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe, Rupert Grint",
+  "Genre": "Adventure, Family, Fantasy, Mystery",
+  "Rating": "8.1/10",
+  "Duration": "130 min",
+  "Votes": 995516
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd665"
+  },
+  "Title": "Gran Torino",
+  "Release Year": 2008,
+  "Director": "Clint Eastwood",
+  "Main Actors": "Clint Eastwood, Christopher Carley, Bee Vang, Ahney Her, Brian Haley",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "116 min",
+  "Votes": 838247
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd666"
+  },
+  "Title": "Million Dollar Baby",
+  "Release Year": 2004,
+  "Director": "Clint Eastwood",
+  "Main Actors": "Clint Eastwood, Hilary Swank, Morgan Freeman, Jay Baruchel, Mike Colter",
+  "Genre": "Drama, Sport",
+  "Rating": "8.1/10",
+  "Duration": "132 min",
+  "Votes": 745459
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd667"
+  },
+  "Title": "My Neighbor Totoro",
+  "Release Year": 1988,
+  "Director": "Hayao Miyazaki",
+  "Main Actors": "Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto, Tanie Kitabayashi",
+  "Genre": "Animation, Comedy, Family, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "86 min",
+  "Votes": 406479
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd668"
+  },
+  "Title": "Mad Max: Fury Road",
+  "Release Year": 2015,
+  "Director": "George Miller",
+  "Main Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman",
+  "Genre": "Action, Adventure, Sci-Fi, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "120 min",
+  "Votes": 1163377
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd669"
+  },
+  "Title": "Ben-Hur",
+  "Release Year": 1959,
+  "Director": "William Wyler",
+  "Main Actors": "Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd, Hugh Griffith",
+  "Genre": "Adventure, Drama",
+  "Rating": "8.1/10",
+  "Duration": "212 min",
+  "Votes": 263040
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66a"
+  },
+  "Title": "Spider-Man: No Way Home",
+  "Release Year": 2021,
+  "Director": "Jon Watts",
+  "Main Actors": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau",
+  "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+  "Rating": "8.2/10",
+  "Duration": "148 min",
+  "Votes": 948388
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66b"
+  },
+  "Title": "Barry Lyndon",
+  "Release Year": 1975,
+  "Director": "Stanley Kubrick",
+  "Main Actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger, Steven Berkoff",
+  "Genre": "Adventure, Drama, War",
+  "Rating": "8.1/10",
+  "Duration": "185 min",
+  "Votes": 192852
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66c"
+  },
+  "Title": "Dead Poets Society",
+  "Release Year": 1989,
+  "Director": "Peter Weir",
+  "Main Actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles, Gale Hansen",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.1/10",
+  "Duration": "128 min",
+  "Votes": 589650
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66d"
+  },
+  "Title": "Children of Heaven",
+  "Release Year": 1997,
+  "Director": "Majid Majidi",
+  "Main Actors": "Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi, Fereshte Sarabandi",
+  "Genre": "Drama, Family, Sport",
+  "Rating": "8.2/10",
+  "Duration": "89 min",
+  "Votes": 85523
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66e"
+  },
+  "Title": "12 Years a Slave",
+  "Release Year": 2013,
+  "Director": "Steve McQueen",
+  "Main Actors": "Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt, Ashley Dyke",
+  "Genre": "Biography, Drama, History",
+  "Rating": "8.1/10",
+  "Duration": "134 min",
+  "Votes": 763795
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd66f"
+  },
+  "Title": "Before Sunrise",
+  "Release Year": 1995,
+  "Director": "Richard Linklater",
+  "Main Actors": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl, Karl Bruckschwaiger",
+  "Genre": "Comedy, Drama, Romance",
+  "Rating": "8.1/10",
+  "Duration": "101 min",
+  "Votes": 358283
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd670"
+  },
+  "Title": "The Grand Budapest Hotel",
+  "Release Year": 2014,
+  "Director": "Wes Anderson",
+  "Main Actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.1/10",
+  "Duration": "99 min",
+  "Votes": 925068
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd671"
+  },
+  "Title": "Blade Runner",
+  "Release Year": 1982,
+  "Director": "Ridley Scott",
+  "Main Actors": "Harrison Ford, Sean Young, Rutger Hauer, Edward James Olmos, M. Emmet Walsh",
+  "Genre": "Action, Drama, Sci-Fi, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "117 min",
+  "Votes": 853135
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd672"
+  },
+  "Title": "Hacksaw Ridge",
+  "Release Year": 2016,
+  "Director": "Mel Gibson",
+  "Main Actors": "Andrew Garfield, Richard Pyros, Jacob Warner, Milo Gibson, Darcy Bryce",
+  "Genre": "Biography, Drama, History, War",
+  "Rating": "8.1/10",
+  "Duration": "139 min",
+  "Votes": 635709
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd673"
+  },
+  "Title": "Gone Girl",
+  "Release Year": 2014,
+  "Director": "David Fincher",
+  "Main Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, Carrie Coon",
+  "Genre": "Drama, Mystery, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "149 min",
+  "Votes": 1119109
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd674"
+  },
+  "Title": "Memories of Murder",
+  "Release Year": 2003,
+  "Director": "Bong Joon Ho",
+  "Main Actors": "Song Kang-ho, Kim Sang-kyung, Kim Roe-ha, Song Jae-ho, Byun Hee-Bong",
+  "Genre": "Crime, Drama, Mystery, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "131 min",
+  "Votes": 240244
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd675"
+  },
+  "Title": "Ratatouille",
+  "Release Year": 2007,
+  "Director": "Brad Bird, Jan Pinkava",
+  "Main Actors": "Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "111 min",
+  "Votes": 883096
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd676"
+  },
+  "Title": "Monsters, Inc.",
+  "Release Year": 2001,
+  "Director": "Pete Docter, David Silverman, Lee Unkrich",
+  "Main Actors": "John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi, James Coburn",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "92 min",
+  "Votes": 1026138
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd677"
+  },
+  "Title": "In the Name of the Father",
+  "Release Year": 1993,
+  "Director": "Jim Sheridan",
+  "Main Actors": "Alison Crosbie, Philip King, Emma Thompson, Nye Heron, Daniel Day-Lewis",
+  "Genre": "Biography, Crime, Drama",
+  "Rating": "8.1/10",
+  "Duration": "133 min",
+  "Votes": 195573
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd678"
+  },
+  "Title": "The Gold Rush",
+  "Release Year": 1925,
+  "Director": "Charles Chaplin",
+  "Main Actors": "Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman, Malcolm Waite",
+  "Genre": "Adventure, Comedy, Drama, Romance, Western",
+  "Rating": "8.1/10",
+  "Duration": "95 min",
+  "Votes": 123610
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd679"
+  },
+  "Title": "Wild Tales",
+  "Release Year": 2014,
+  "Director": "Damián Szifron",
+  "Main Actors": "Darío Grandinetti, María Marull, Mónica Villa, Diego Starosta, Marcelo Frasca",
+  "Genre": "Comedy, Drama, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "122 min",
+  "Votes": 227984
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67a"
+  },
+  "Title": "Sherlock Jr.",
+  "Release Year": 1924,
+  "Director": "Buster Keaton",
+  "Main Actors": "Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly, Ward Crane",
+  "Genre": "Action, Comedy, Romance",
+  "Rating": "8.2/10",
+  "Duration": "45 min",
+  "Votes": 61760
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67b"
+  },
+  "Title": "Jaws",
+  "Release Year": 1975,
+  "Director": "Steven Spielberg",
+  "Main Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton",
+  "Genre": "Adventure, Drama, Horror, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "124 min",
+  "Votes": 693083
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67c"
+  },
+  "Title": "Mary and Max",
+  "Release Year": 2009,
+  "Director": "Adam Elliot",
+  "Main Actors": "Christopher Massey, Oliver Marks, Daisy Kocher, Daniel Marks, Hamish Hughes",
+  "Genre": "Animation, Comedy, Drama",
+  "Rating": "8.1/10",
+  "Duration": "92 min",
+  "Votes": 195680
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67d"
+  },
+  "Title": "The Deer Hunter",
+  "Release Year": 1978,
+  "Director": "Michael Cimino",
+  "Main Actors": "Robert De Niro, John Cazale, John Savage, Christopher Walken, Meryl Streep",
+  "Genre": "Drama, War",
+  "Rating": "8.1/10",
+  "Duration": "183 min",
+  "Votes": 375083
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67e"
+  },
+  "Title": "Ford v Ferrari",
+  "Release Year": 2019,
+  "Director": "James Mangold",
+  "Main Actors": "Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe, Josh Lucas",
+  "Genre": "Action, Biography, Drama, Sport",
+  "Rating": "8.1/10",
+  "Duration": "152 min",
+  "Votes": 521074
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd67f"
+  },
+  "Title": "The General",
+  "Release Year": 1926,
+  "Director": "Clyde Bruckman, Buster Keaton",
+  "Main Actors": "Buster Keaton, Marion Mack, Glen Cavender, Jim Farley, Frederick Vroom",
+  "Genre": "Action, Adventure, Comedy, Drama, War",
+  "Rating": "8.1/10",
+  "Duration": "78 min",
+  "Votes": 102516
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd680"
+  },
+  "Title": "On the Waterfront",
+  "Release Year": 1954,
+  "Director": "Elia Kazan",
+  "Main Actors": "Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger, Pat Henning",
+  "Genre": "Crime, Drama, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "108 min",
+  "Votes": 172022
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd681"
+  },
+  "Title": "Mr. Smith Goes to Washington",
+  "Release Year": 1939,
+  "Director": "Frank Capra",
+  "Main Actors": "Jean Arthur, James Stewart, Claude Rains, Edward Arnold, Guy Kibbee",
+  "Genre": "Comedy, Drama",
+  "Rating": "8.1/10",
+  "Duration": "129 min",
+  "Votes": 125761
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd682"
+  },
+  "Title": "Wild Strawberries",
+  "Release Year": 1957,
+  "Director": "Ingmar Bergman",
+  "Main Actors": "Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand, Jullan Kindahl",
+  "Genre": "Drama, Romance",
+  "Rating": "8.1/10",
+  "Duration": "92 min",
+  "Votes": 120218
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd683"
+  },
+  "Title": "Logan",
+  "Release Year": 2017,
+  "Director": "James Mangold",
+  "Main Actors": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook, Stephen Merchant",
+  "Genre": "Action, Drama, Sci-Fi, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "137 min",
+  "Votes": 888233
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd684"
+  },
+  "Title": "Rocky",
+  "Release Year": 1976,
+  "Director": "John G. Avildsen",
+  "Main Actors": "Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith",
+  "Genre": "Drama, Sport",
+  "Rating": "8.1/10",
+  "Duration": "120 min",
+  "Votes": 658765
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd685"
+  },
+  "Title": "I'm Still Here",
+  "Release Year": 2024,
+  "Director": "Walter Salles",
+  "Main Actors": "Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Maria Manoella",
+  "Genre": "Biography, Drama, History",
+  "Rating": "8.3/10",
+  "Duration": "137 min",
+  "Votes": 105764
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd686"
+  },
+  "Title": "The Third Man",
+  "Release Year": 1949,
+  "Director": "Carol Reed",
+  "Main Actors": "Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard, Paul Hörbiger",
+  "Genre": "Drama, Film-Noir, Mystery, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "104 min",
+  "Votes": 189440
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd687"
+  },
+  "Title": "Tokyo Story",
+  "Release Year": 1953,
+  "Director": "Yasujirô Ozu",
+  "Main Actors": "Chishû Ryû, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura, Sô Yamamura",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "137 min",
+  "Votes": 73673
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd688"
+  },
+  "Title": "Spotlight",
+  "Release Year": 2015,
+  "Director": "Tom McCarthy",
+  "Main Actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber, John Slattery",
+  "Genre": "Biography, Crime, Drama",
+  "Rating": "8.1/10",
+  "Duration": "129 min",
+  "Votes": 518071
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd689"
+  },
+  "Title": "The Big Lebowski",
+  "Release Year": 1998,
+  "Director": "Joel Coen, Ethan Coen",
+  "Main Actors": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, David Huddleston",
+  "Genre": "Comedy, Crime",
+  "Rating": "8.1/10",
+  "Duration": "117 min",
+  "Votes": 889396
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68a"
+  },
+  "Title": "The Terminator",
+  "Release Year": 1984,
+  "Director": "James Cameron",
+  "Main Actors": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Rating": "8.1/10",
+  "Duration": "107 min",
+  "Votes": 963207
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68b"
+  },
+  "Title": "Maharaja",
+  "Release Year": 2024,
+  "Director": "Nithilan Saminathan",
+  "Main Actors": "Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas, Natarajan Subramaniam, Abhirami",
+  "Genre": "Action, Crime, Drama, Thriller",
+  "Rating": "8.4/10",
+  "Duration": "141 min",
+  "Votes": 67460
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68c"
+  },
+  "Title": "The Seventh Seal",
+  "Release Year": 1957,
+  "Director": "Ingmar Bergman",
+  "Main Actors": "Gunnar Björnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow, Bibi Andersson",
+  "Genre": "Drama, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "96 min",
+  "Votes": 208055
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68d"
+  },
+  "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "Release Year": 2003,
+  "Director": "Gore Verbinski",
+  "Main Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport",
+  "Genre": "Action, Adventure, Fantasy",
+  "Rating": "8.1/10",
+  "Duration": "143 min",
+  "Votes": 1264008
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68e"
+  },
+  "Title": "Room",
+  "Release Year": 2015,
+  "Director": "Lenny Abrahamson",
+  "Main Actors": "Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson, Sandy McMaster",
+  "Genre": "Drama, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "118 min",
+  "Votes": 467282
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd68f"
+  },
+  "Title": "La haine",
+  "Release Year": 1995,
+  "Director": "Mathieu Kassovitz",
+  "Main Actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili, Solo",
+  "Genre": "Crime, Drama",
+  "Rating": "8.1/10",
+  "Duration": "98 min",
+  "Votes": 211178
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd690"
+  },
+  "Title": "Jai Bhim",
+  "Release Year": 2021,
+  "Director": "T.J. Gnanavel",
+  "Main Actors": "Suriya, Lijo Mol Jose, Manikandan K., Rajisha Vijayan, Prakash Raj",
+  "Genre": "Crime, Drama",
+  "Rating": "8.7/10",
+  "Duration": "164 min",
+  "Votes": 225212
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd691"
+  },
+  "Title": "Hotel Rwanda",
+  "Release Year": 2004,
+  "Director": "Terry George",
+  "Main Actors": "Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim, Tony Kgoroge",
+  "Genre": "Biography, Drama, History, War",
+  "Rating": "8.1/10",
+  "Duration": "121 min",
+  "Votes": 383406
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd692"
+  },
+  "Title": "Platoon",
+  "Release Year": 1986,
+  "Director": "Oliver Stone",
+  "Main Actors": "Keith David, Forest Whitaker, Francesco Quinn, Kevin Dillon, John C. McGinley",
+  "Genre": "Drama, War",
+  "Rating": "8.1/10",
+  "Duration": "120 min",
+  "Votes": 455574
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd693"
+  },
+  "Title": "Before Sunset",
+  "Release Year": 2004,
+  "Director": "Richard Linklater",
+  "Main Actors": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès, Rodolphe Pauly",
+  "Genre": "Drama, Romance",
+  "Rating": "8.1/10",
+  "Duration": "80 min",
+  "Votes": 301614
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd694"
+  },
+  "Title": "The Best Years of Our Lives",
+  "Release Year": 1946,
+  "Director": "William Wyler",
+  "Main Actors": "Myrna Loy, Fredric March, Dana Andrews, Teresa Wright, Virginia Mayo",
+  "Genre": "Drama, Romance, War",
+  "Rating": "8.1/10",
+  "Duration": "170 min",
+  "Votes": 74295
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd695"
+  },
+  "Title": "The Exorcist",
+  "Release Year": 1973,
+  "Director": "William Friedkin",
+  "Main Actors": "Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn, Jack MacGowran",
+  "Genre": "Horror",
+  "Rating": "8.1/10",
+  "Duration": "122 min",
+  "Votes": 476949
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd696"
+  },
+  "Title": "The Passion of Joan of Arc",
+  "Release Year": 2001,
+  "Director": "Marie Losier",
+  "Main Actors": "Marie Losier",
+  "Genre": "Short",
+  "Rating": "4.8/10",
+  "Duration": "9 min",
+  "Votes": 13
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd697"
+  },
+  "Title": "The Wizard of Oz",
+  "Release Year": 1939,
+  "Director": "Victor Fleming, King Vidor",
+  "Main Actors": "Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",
+  "Genre": "Adventure, Family, Fantasy, Musical",
+  "Rating": "8.1/10",
+  "Duration": "102 min",
+  "Votes": 449901
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd698"
+  },
+  "Title": "The Sound of Music",
+  "Release Year": 1965,
+  "Director": "Robert Wise",
+  "Main Actors": "Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood",
+  "Genre": "Biography, Drama, Family, Musical, Romance",
+  "Rating": "8.1/10",
+  "Duration": "172 min",
+  "Votes": 275775
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd699"
+  },
+  "Title": "The Incredibles",
+  "Release Year": 2004,
+  "Director": "Brad Bird",
+  "Main Actors": "Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee, Dominique Louis",
+  "Genre": "Animation, Action, Adventure, Family",
+  "Rating": "8.0/10",
+  "Duration": "115 min",
+  "Votes": 853677
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69a"
+  },
+  "Title": "Hachi: A Dog's Tale",
+  "Release Year": 2009,
+  "Director": "Lasse Hallström",
+  "Main Actors": "Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa, Sarah Roemer, Jason Alexander",
+  "Genre": "Biography, Drama, Family",
+  "Rating": "8.1/10",
+  "Duration": "93 min",
+  "Votes": 327650
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69b"
+  },
+  "Title": "Rush",
+  "Release Year": 2013,
+  "Director": "Ron Howard",
+  "Main Actors": "Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara, Pierfrancesco Favino",
+  "Genre": "Biography, Drama, Sport",
+  "Rating": "8.1/10",
+  "Duration": "123 min",
+  "Votes": 533531
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69c"
+  },
+  "Title": "Stand by Me",
+  "Release Year": 1986,
+  "Director": "Rob Reiner",
+  "Main Actors": "Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland",
+  "Genre": "Adventure, Comedy, Drama",
+  "Rating": "8.1/10",
+  "Duration": "89 min",
+  "Votes": 463598
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69d"
+  },
+  "Title": "My Father and My Son",
+  "Release Year": 2005,
+  "Director": "Çagan Irmak",
+  "Main Actors": "Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman, Serif Sezer",
+  "Genre": "Drama, Family",
+  "Rating": "8.2/10",
+  "Duration": "112 min",
+  "Votes": 97199
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69e"
+  },
+  "Title": "Network",
+  "Release Year": 1976,
+  "Director": "Sidney Lumet",
+  "Main Actors": "Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Wesley Addy",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "121 min",
+  "Votes": 178973
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd69f"
+  },
+  "Title": "The Iron Giant",
+  "Release Year": 1999,
+  "Director": "Brad Bird",
+  "Main Actors": "Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman",
+  "Genre": "Animation, Action, Adventure, Comedy, Drama, Family, Sci-Fi",
+  "Rating": "8.1/10",
+  "Duration": "86 min",
+  "Votes": 244132
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a0"
+  },
+  "Title": "The Handmaiden",
+  "Release Year": 2016,
+  "Director": "Park Chan-wook",
+  "Main Actors": "Kim Tae-ri, Lee Yong-nyeo, Yoo Min-chae, Lee Dong-hwi, Kim Hae-sook",
+  "Genre": "Drama, Romance, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "145 min",
+  "Votes": 187699
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a1"
+  },
+  "Title": "To Be or Not to Be",
+  "Release Year": 1942,
+  "Director": "Ernst Lubitsch",
+  "Main Actors": "Carole Lombard, Jack Benny, Robert Stack, Felix Bressart, Lionel Atwill",
+  "Genre": "Comedy, Romance, War",
+  "Rating": "8.1/10",
+  "Duration": "99 min",
+  "Votes": 46836
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a2"
+  },
+  "Title": "Five Directors on 'the Battle of Algiers'",
+  "Release Year": 2004,
+  "Director": "",
+  "Main Actors": "Brahim Hadjadj, Spike Lee, Mira Nair, Julian Schnabel, Steven Soderbergh",
+  "Genre": "Documentary, Short",
+  "Rating": "6.3/10",
+  "Duration": "17 min",
+  "Votes": 94
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a3"
+  },
+  "Title": "A Silent Voice: The Movie",
+  "Release Year": 2016,
+  "Director": "Naoko Yamada",
+  "Main Actors": "Miyu Irino, Saori Hayami, Aoi Yûki, Kenshô Ono, Yûki Kaneko",
+  "Genre": "Animation, Drama",
+  "Rating": "8.1/10",
+  "Duration": "130 min",
+  "Votes": 119685
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a4"
+  },
+  "Title": "Sinners",
+  "Release Year": 2025,
+  "Director": "Ryan Coogler",
+  "Main Actors": "Miles Caton, Saul Williams, Andrene Ward-Hammond, Jack O'Connell, Tenaj L. Jackson",
+  "Genre": "Action, Drama, Horror, Thriller",
+  "Rating": "8.2/10",
+  "Duration": "137 min",
+  "Votes": 59606
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a5"
+  },
+  "Title": "The Grapes of Wrath",
+  "Release Year": 1940,
+  "Director": "John Ford",
+  "Main Actors": "Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin, Dorris Bowdon",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "129 min",
+  "Votes": 104414
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a6"
+  },
+  "Title": "Into the Wild",
+  "Release Year": 2007,
+  "Director": "Sean Penn",
+  "Main Actors": "Emile Hirsch, Marcia Gay Harden, William Hurt, Jena Malone, Brian H. Dierker",
+  "Genre": "Adventure, Biography, Drama",
+  "Rating": "8.0/10",
+  "Duration": "148 min",
+  "Votes": 678529
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a7"
+  },
+  "Title": "Groundhog Day",
+  "Release Year": 1993,
+  "Director": "Harold Ramis",
+  "Main Actors": "Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray",
+  "Genre": "Comedy, Drama, Fantasy, Romance",
+  "Rating": "8.0/10",
+  "Duration": "101 min",
+  "Votes": 715536
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a8"
+  },
+  "Title": "The Help",
+  "Release Year": 2011,
+  "Director": "Tate Taylor",
+  "Main Actors": "Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain",
+  "Genre": "Drama",
+  "Rating": "8.1/10",
+  "Duration": "146 min",
+  "Votes": 512115
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6a9"
+  },
+  "Title": "Amores Perros",
+  "Release Year": 2000,
+  "Director": "Alejandro G. Iñárritu",
+  "Main Actors": "Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero, Vanessa Bauche",
+  "Genre": "Drama, Thriller",
+  "Rating": "8.0/10",
+  "Duration": "154 min",
+  "Votes": 267187
+},
+{
+  "_id": {
+    "$oid": "68126df483b27f4e914cd6aa"
+  },
+  "Title": "Rebecca",
+  "Release Year": 1940,
+  "Director": "Alfred Hitchcock",
+  "Main Actors": "Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson, Nigel Bruce",
+  "Genre": "Drama, Mystery, Romance, Thriller",
+  "Rating": "8.1/10",
+  "Duration": "130 min",
+  "Votes": 158507
+}]
