@@ -1,1 +1,6 @@
 # imdb_scrapping
+This web scraping project is for the Top 250 Movies page on IMDb, the world's largest movie database. It contains a wealth of information, including ratings, casts, genres, and more. Our goal was to accurately extract this data, analyze it, and present it in a visually easy-to-understand format, storing it in a MongoDB database. Finally, we created an interactive application using Streamlit to present the analysis in a simple and intuitive way for the user.
+
+In the data extraction phase, we used the Selenium library to access the IMDb page and collect movie names. We then used the search_movie function from the IMDbPY library to retrieve full details for each movie from the IMDb database, such as rating, genre, number of votes, and year of release. This data served as the basis for the subsequent analysis and modeling steps.
+
+After collecting the data, we cleaned and analyzed it using Pandas, Seaborn, and Matplotlib, and applied predictive models such as linear regression, random forest regression, and logistic regression. We displayed the results of the analysis and predictive models in an interactive Streamlit interface, which allows users to visually and easily explore the relationship between factors such as movie duration, genre, and rating.
